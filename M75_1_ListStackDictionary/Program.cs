@@ -51,7 +51,7 @@ namespace M75_1_ListStackDictionary
 
             foreach (var item in lstDictionary)
             {
-                Console.WriteLine($"Dictionary item: {item}");
+                Console.WriteLine($"Dictionary item:  {item}");
             }
 
 
